@@ -1,35 +1,36 @@
 # **pinout**
 
 
-# **rfid
-# **pins
+# rfid
+# pins
 
 gnd|gnd vcc|3.3 sda|44 scl| 43
 
-# **sd card module
-# **pins
+# sd card module
+# pins
 
 gnd|gnd 3v3|3v3 miso|13 mois|11 cs|1 clk|12
 
-# **cc1101
-# **pins
+# cc1101
+# pins
 
 gnd|gnd 3.3|3.3 sck|12 miso|13 mois|11 cs|2 io0|21
 
-# **charging module - boost conventer
-# **pins
+# charging module - boost conventer
+# pins
+
 out- | - -> out+ | + ->
 
-# **boost conventer - t-display
-# **pins
+# boost conventer - t-display
+# pins
 
 | + - | -
-# **ir tx - tranzystor BC547 (from the smooth side)
-# **pins
+# ir tx - tranzystor BC547 (from the smooth side)
+# pins
 
 left | gnd middle | g 17 right | - (on ir diod) + (on ir diod) | 3.3
 
-# **ir rx (from the smooth side)
-# **pins
+# ir rx (from the smooth side)
+# pins
 
 left | 3.3 middle | gnd right | g 18
