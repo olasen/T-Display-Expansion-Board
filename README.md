@@ -54,7 +54,7 @@ left | gnd middle | g 17 right | - (on ir diod) + (on ir diod) | 3.3
 #  pins
 left | 3.3 middle | gnd right | g 18
 
-# **PLANNED FEATURES **
+# **PLANNED FEATURES**
 add external antena mod
 add e01c
 add ir tx 3 w
