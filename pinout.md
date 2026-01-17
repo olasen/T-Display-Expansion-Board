@@ -33,4 +33,4 @@ left | gnd middle | g 17 right | - (on ir diod) + (on ir diod) | 3.3
 # ir rx (from the smooth side)
 # pins
 
-left | 3.3 middle | gnd right | g 18
+left | 3.3 middle | gnd right | g 18 
