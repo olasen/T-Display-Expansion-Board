@@ -2,6 +2,7 @@ This repository does not provide ready-to-use firmware intended for illegal inte
 
 License: Apache License 2.0
 
+![65c17e68-c7cf-4343-a747-92816b681237](https://github.com/user-attachments/assets/46f93aa4-20b3-47e6-a6aa-b4cfc9d336b0)
 
 
 T-Display-Expansion-Board
