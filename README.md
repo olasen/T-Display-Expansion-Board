@@ -66,7 +66,7 @@ This repository is provided for educational and research purposes only. Any func
 # **LICENSE**
 MIT License Feel free to study, modify, and improve this project responsibly.
 
-AUTHORSHIP AND REDISTRIBUTION
+# **AUTHORSHIP AND REDISTRIBUTION**
 This design may be used and modified.
 
 Crediting this design or presenting it as an original work created by another person is prohibited.
