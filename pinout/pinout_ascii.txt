@@ -1,0 +1,7 @@
+ESP32-WROOM PINOUT DIAGRAM
+==========================
+
+Project: T-Display-Expansion-Board
+
+# **rfid**
+# **pins
