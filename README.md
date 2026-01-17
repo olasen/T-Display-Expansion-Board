@@ -58,11 +58,11 @@ left | gnd middle | g 17 right | - (on ir diod) + (on ir diod) | 3.3
 left | 3.3 middle | gnd right | g 18
 
 # **PLANNED FEATURES**
--add external antena mod
--add e01c
--add ir tx 3 w
--fm si4713 module
--lora
+- add external antena mod
+- add e01c
+- add ir tx 3 w
+- fm si4713 module
+- lora
 # **DISCLAIMER**
 This repository is provided for educational and research purposes only. Any functionality that may interfere with wireless communication must be used only in controlled environments and in accordance with local laws.
 
