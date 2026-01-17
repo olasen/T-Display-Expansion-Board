@@ -16,3 +16,29 @@ The project was created primarily for educational, research, and hardware experi
 
 
 IMPORTANT: This project is intended for educational and experimental purposes only. Using the module extension for card theft, radio signal jamming, and key duplication is illegal in most countries. The author is not responsible for any misuse of this project.
+
+
+# **HARDWARE COMPONENTS**
+
+- t-display s3
+- rfid PN532
+- cc1101
+- 5 ir tx
+- 1 ir rx
+- sd card module
+- boost conventer 3.7-5 volt
+- batery 1000 mAh 3.7 volt
+- 2 pcb 40/70 mm
+- 1 swicht
+- 1 charging module usb c
+
+
+# **PIN CONNECTIONS**
+
+# ***rfid module
+# ***pins
+gnd|gnd  vcc|3.7v  sda|
+
+
+
+  
