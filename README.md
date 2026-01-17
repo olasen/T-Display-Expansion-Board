@@ -1,6 +1,8 @@
 This repository does not provide ready-to-use firmware intended for illegal interference with wireless communications.
 
 License: Apache License 2.0
+![65c17e68-c7cf-4343-a747-92816b681237](https://github.com/user-attachments/assets/2b48d94d-74bb-4dee-af2c-b825cbe1ee57)
+
 
 T-Display-Expansion-Board
 # **OVERVIEW**
@@ -72,5 +74,6 @@ This design may be used and modified.
 Crediting this design or presenting it as an original work created by another person is prohibited.
 
 Rebranding, removing author information, or impersonating the author is strictly prohibited.
-<img width="526" height="385" alt="image" src="https://github.com/user-attachments/assets/25705259-0236-4475-a443-da4bf4ce20d6" />
+
+
 
