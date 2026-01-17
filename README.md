@@ -45,7 +45,7 @@ out- | - -> out+ | + ->
 
 # boost conventer - t-display
 # pins
-| + - | -
++ | + - | -
 #  ir tx - tranzystor BC547 (from the smooth side)
 #  pins
 left | gnd middle | g 17 right | - (on ir diod) + (on ir diod) | 3.3
