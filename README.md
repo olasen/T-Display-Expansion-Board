@@ -72,3 +72,5 @@ This design may be used and modified.
 Crediting this design or presenting it as an original work created by another person is prohibited.
 
 Rebranding, removing author information, or impersonating the author is strictly prohibited.
+<img width="526" height="385" alt="image" src="https://github.com/user-attachments/assets/25705259-0236-4475-a443-da4bf4ce20d6" />
+
